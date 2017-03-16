@@ -13,4 +13,5 @@ The input to the program is stopped upon receiving keyword 'Stop' (case-insensit
 
 
 Output format:
-Everytime an integer appears on the newline of input file, those top 'n' hashtags are written into output file separated by commas
+Everytime an integer appears on the newline of input file, those top 'n' hashtags are written into output file 
+separated by commas
